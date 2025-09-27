@@ -63,6 +63,3 @@ Establece los valores a:
 
 ### 8. Implementar el método `changeYear`
 Asigna este método al evento click del botón respectivo. Debe cambiar el año a `2025`.
-
-### 8. Intenta mostrar el nombre del estudiante en mayuscula 
-Muestra el nombre del estudiante en mayúscula sin crear una nueva señal.
