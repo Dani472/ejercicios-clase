@@ -14,9 +14,9 @@ Aquí tienes 20 APIs públicas que puedes asignar a diferentes equipos:
   - URL: https://swapi.dev/
   - Ejemplo: `https://swapi.dev/api/people/1/`
 
-4. **OpenWeather (clima)**
-  - URL: https://openweathermap.org/api
-  - Requiere registro (API key gratuita).
+4. **The Meal DB**
+  - URL: https://www.themealdb.com/api.php
+  - Ejemplo: `https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata`
 
 5. **Cat Facts API**
   - URL: https://catfact.ninja/
@@ -78,6 +78,6 @@ Aquí tienes 20 APIs públicas que puedes asignar a diferentes equipos:
   - URL: https://www.thecocktaildb.com/api.php
   - Ejemplo: `https://www.thecocktaildb.com/api/json/v1/1/random.php`
 
-20. **The Meal DB**
-  - URL: https://www.themealdb.com/api.php
-  - Ejemplo: `https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata`
+20. **OpenWeather (clima)**
+  - URL: https://openweathermap.org/api
+  - Requiere registro (API key gratuita).
