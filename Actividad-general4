@@ -1,0 +1,12 @@
+ACTIVIDAD (1 hora)
+Realiza un nuevo componente en pages que gestione programas de television, debe permitir:
+
+Listar los programas creados
+Agregar un programa
+Eliminar un programa
+Cada uno de los anteriores debe ser un componente que se crea en la carpeta components/programs Un programa de telvision debe tener los siguientes atributos
+
+id -> numerico, puede ser aleatorio
+nombre -> string
+detalle -> string
+categoria -> string (Solo puede ser ADULTOS, NIÑOS, TODOS)
