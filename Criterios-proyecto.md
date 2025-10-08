@@ -4,7 +4,7 @@ Este documento describe las pautas y criterios que se tendrán en cuenta para la
 
 ---
 
-## ntegrantes del Grupo
+## Integrantes del Grupo
 
 - Nombre 1  
 - Nombre 2 *(si aplica)*
